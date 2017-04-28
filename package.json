@@ -1,0 +1,23 @@
+{
+  "name": "kata-FizzBuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kata-FizzBuzz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beverley-walter/kata-FizzBuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beverley-walter/kata-FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/beverley-walter/kata-FizzBuzz#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
